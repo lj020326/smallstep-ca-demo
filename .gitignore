@@ -12,3 +12,7 @@
 # Any and all certificates or keys should be ignored
 *.crt
 *.key
+
+## lj
+.idea/
+save/
